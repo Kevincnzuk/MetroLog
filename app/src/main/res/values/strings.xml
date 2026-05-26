@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MetroLog</string>
+
+    <string name="main_fab_cd">Add</string>
+</resources>
